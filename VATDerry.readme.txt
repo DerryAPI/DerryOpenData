@@ -1,0 +1,16 @@
+VATDerry.csv
+------------
+
+This is a spreadsheet of 1,873 VAT registered companies in the BT48/BT47 postcode areas,
+including VAT number / Company Name / Address.
+
+It is free to use for any purpose, commerical or academic. However, please acknowledge 
+the Derry API as the source of your data in any project using this information. We also
+ask you to contribute to this data using a pull request, should you wish to expand upon it. 
+
+The data is sourced from http://vatapi.co.uk/ and the full UK database is available here
+https://payhip.com/b/4mMK
+
+
+For more information contact:
+https://www.facebook.com/groups/305578149923496/
